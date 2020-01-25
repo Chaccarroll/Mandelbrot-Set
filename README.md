@@ -1,1 +1,3 @@
-# Im-trying-my-best-here
+# Mandelbrot Set
+
+woiefoi
